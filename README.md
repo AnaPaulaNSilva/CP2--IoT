@@ -1,3 +1,7 @@
+# OBJETIVO 
+
+O objetivo do nosso projeto é identificar quantas bolsas de cada tipo sanguíneo tem no estoque dos hospitais e também identificar qual é o tipo de sangue que esse dispositivo está se aproximando, e um site para a população e agentes da saúde saberem quais são os tipos que estão em falta, podendo ter um maior controle de estoque. 
+
 # CODIGO COMPLETO
 
 #include <SPI.h>
