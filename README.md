@@ -165,5 +165,6 @@ Será necessario baixar essas bibliotecas para o funcionamento do código
 <LiquidCrystal_I2C.h>
 
 # DESENHO DA ARQUITETURA 
-![image](https://github.com/user-attachments/assets/ae59845f-7d5c-45e3-847b-d60f2a77d44d)
+![image](https://github.com/user-attachments/assets/5766a21e-1f06-47c3-bfb5-8b76883c6c3c)
+
 
